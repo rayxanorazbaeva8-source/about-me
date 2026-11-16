@@ -6,3 +6,4 @@ sevimli fanlarim:
 informatika
 jismoniy
 sahifam: [GitHub](https://github.com/slidher-dev)
+![rasm](rasm.png)
